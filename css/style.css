@@ -1,0 +1,26 @@
+body {
+  background: bisque;
+}
+
+h1,p {
+  text-align: center;
+}
+a {
+  margin: 50px;
+  color: green;
+}
+
+img {
+  width: 600px;
+  margin-bottom: 70px;
+}
+
+.links {
+  text-align: center;
+}
+
+  .center {
+    display: block;
+    margin-left: 650px;
+    margin-right: auto;
+  }
